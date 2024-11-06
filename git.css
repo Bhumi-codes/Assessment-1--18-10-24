@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #b84800;
+    font-family: 'serif';
+}
+
+.meme-rounder {
+    text-align: center;
+    color: #ffd731;
+}
+
+.motivation-image {
+    margin-top: 35px;
+    max-width: auto;
+    height: auto;
+    border: 5px solid;
+   
+}
+
+.motivation-text h1 {
+    font-size: 5em;
+    margin-top: 20px;
+    
+}
+
+.motivation-text p {
+    font-size: 2.5em;
+    margin-top: 10px;
+}
